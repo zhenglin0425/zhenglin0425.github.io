@@ -55,5 +55,5 @@ redirect_from:
 
 * Patents
 
-  * [**<font color='red'>P1</font>**]  **Z. Lin**, L. Wang. A generative adversarial network(GAN)-based high-frequency channel estimation method. CN Patent 202211133290.8. Sep. 5. 2022. Application Pending.
+  * [**<font color='red'>P1</font>**]  **Z. Lin**, L. Wang. A generative adversarial network(GAN)-based high-frequency channel estimation method. CN Patent 202211133290.8. Application Pending.
 
