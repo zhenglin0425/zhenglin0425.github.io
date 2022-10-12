@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :  #&twitter
 facebook:
   username               :
   app_id                 :
@@ -91,24 +91,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :  #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :  #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  researchgate    :  https://www.researchgate.net/profile/Zheng-Lin-12
 
 
 # Reading Files
