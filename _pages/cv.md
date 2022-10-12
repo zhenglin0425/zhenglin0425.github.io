@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. at the Department of Electrical Engineering, Fuzhou University, 2016-2020
+* M.S. at the Department of Electrical Engineering, Fudan University, 2020-2023
+* Ph.D at the Department of Electrical and Electronic Engineering, the University of Hong Kong, 2023 (expected)
 
 Work experience
 ======
