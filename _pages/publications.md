@@ -17,4 +17,4 @@ author_profile: true
 
 **[<font color="#dd0000">ICC'2022</font>]**  **Z. Lin**, L. Wang, J. Ding, Y. Xu and B. Tan, "V2I-aided Tracking Design," in IEEE International Conference on Communications, pp. 291-296, June 2022.
 
-**[<font color="#dd0000">C1</font>]**. **Z. Lin**, L. Wang, B. Tan and X. Li, "Subchannel and Power Allocation in Terahertz Systems with Leaky-wave Antennas," submit to possible IEEE conference.
+**[<font color="#dd0000">C1</font>]**  **Z. Lin**, L. Wang, B. Tan and X. Li, "Subchannel and Power Allocation in Terahertz Systems with Leaky-wave Antennas," submit to possible IEEE conference.
