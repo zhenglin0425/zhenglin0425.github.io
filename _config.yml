@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zheng Lin"
 title_separator          : "-"
-name                     : &name "Zheng Lin"
+name                     : &name "111"
 description              : &description "personal description"
 url                      : https://zhenglin0425.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ffffff"
+  name             : "111"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
