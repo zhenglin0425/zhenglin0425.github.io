@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 **Journal Articles**
-<font color='red'> 字体颜色修改为红色 </font>
-[**<font color="#dd0000">TWC</font>**]
-
 
 [**<font color='red'>TWC</font>**]  **Z. Lin**, L. Wang, B. Tan and X. Li, "Spatial-spectral Terahertz Networks," IEEE Transactions on Wireless Communications, vol. 21, no. 6, pp. 3881-3892, June 2022.
 
