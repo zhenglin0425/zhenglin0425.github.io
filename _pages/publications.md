@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 ## Journal Articles
 
 [**<font color='red'>TWC</font>**]  **Z. Lin**, L. Wang, B. Tan and X. Li, "Spatial-spectral Terahertz Networks," IEEE Transactions on Wireless Communications, vol. 21, no. 6, pp. 3881-3892, November 2021.  [[<font color='red'>Link</font>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9612105)] 
