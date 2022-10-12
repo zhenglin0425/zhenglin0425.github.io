@@ -22,6 +22,11 @@ redirect_from:
   * Core menber
   * 2022-present
   * Supervisor: Lifeng Wang 
+
+* ## National natural sciences fund youth fund project："Research on Platooning Technology of Internet of Vehicles for Edge Computing" (62002065)
+  * Participating member
+  * 2020-present
+  * Supervisor: Lifeng Wang 
   
 
 
