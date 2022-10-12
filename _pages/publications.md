@@ -7,7 +7,7 @@ author_profile: true
 
 **Journal Articles**
 
-[**<font color='red'>TWC</font>**]  **Z. Lin**, L. Wang, B. Tan and X. Li, "Spatial-spectral Terahertz Networks," IEEE Transactions on Wireless Communications, vol. 21, no. 6, pp. 3881-3892, November 2021.
+[**<font color='red'>TWC</font>**]  **Z. Lin**, L. Wang, B. Tan and X. Li, "Spatial-spectral Terahertz Networks," IEEE Transactions on Wireless Communications, vol. 21, no. 6, pp. 3881-3892, November 2021. [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9612105) 
 
 [**<font color='red'>TWC</font>**]  **Z. Lin**, L. Wang, J. Ding, Y. Xu and B. Tan, "Tracking and Transmission Design in Terahertz V2I Networks," IEEE Transactions on Wireless Communications, accepted to appear.
 
