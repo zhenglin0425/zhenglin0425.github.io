@@ -14,5 +14,7 @@ Welcome to Zheng Lin's homepage! I am now a postgraduate student at the Departm
 
 ## Research Interest
 
-My research interests include terahertz networks, vehicle-to-everything (V2X), edge learning(e.g., federated learning and split learning).
+* Terahertz networks 
+* Vehicle-to-everything (V2X)
+* Edge learning(e.g., federated learning and split learning).
 
