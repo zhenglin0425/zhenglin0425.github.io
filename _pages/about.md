@@ -16,5 +16,5 @@ Welcome to Zheng Lin's homepage! I am now a postgraduate student at the Departm
 
 * Terahertz networks 
 * Vehicle-to-everything (V2X)
-* Edge learning(e.g., federated learning and split learning).
+* Edge learning (e.g., federated learning and split learning).
 
