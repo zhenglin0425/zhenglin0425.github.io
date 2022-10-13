@@ -34,8 +34,8 @@ redirect_from:
   
 ## Honors And Awards
 
-* Obtain Postgraduate National Scholarship, 2021-2022 (ranking 1/165).
-* Obtain Outstanding undergraduate scholarship for 3 consecutive years, 2016-2017 (10%), 2017-2018 (10%), 2018-2019 (5%).
+* Obtain **Postgraduate National Scholarship**, 2021-2022 (ranking **1/165**).
+* Obtain **Outstanding undergraduate scholarship** for 3 consecutive years, 2016-2017 (10%), 2017-2018 (10%), 2018-2019 (5%).
 
 ## Publications
 
