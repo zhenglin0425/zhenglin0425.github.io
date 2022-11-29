@@ -18,5 +18,4 @@ Welcome to Zheng Lin's homepage! I am now a postgraduate student at the Departm
 * Vehicle-to-everything (V2X)
 * Edge learning (e.g., federated learning and split learning).
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+<a href="https://info.flagcounter.com/DcJJ"><img src="https://s11.flagcounter.com/map/DcJJ/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
