@@ -18,6 +18,5 @@ Welcome to Zheng Lin's homepage! I am now a postgraduate student at the Departm
 * Vehicle-to-everything (V2X)
 * Edge learning (e.g., federated learning and split learning).
 
-    <script src="https://cdn1.lncld.net/static/js/av-mini-0.6.10.js"></script>
-    <script src="http://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-lc-0.2.0.js"></script>
-    <span data-hk-page="current"> - </span>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
