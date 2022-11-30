@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-Welcome to Zheng Lin's homepage! I am now a postgraduate student at the Department of Electrical Engineering, Fudan University (FDU), Shanghai, China. I was awarded the Postgraduate National Scholarship (1/165) in 2022. In August 2023, I will start my PhD studies at the University of Hong Kong (HKU).
+Welcome to Zheng Lin's homepage! I am now a postgraduate student at the Department of Electrical Engineering, Fudan University (FDU), Shanghai, China. I was awarded the Postgraduate National Scholarship (1/165) in 2022. In August 2023, I will start my PhD career at the University of Hong Kong (HKU), advised by
 
 ## Research Interest
 
