@@ -24,9 +24,5 @@ Welcome to Zheng Lin's homepage! I am now a postgraduate student at the Departm
 <a href="https://info.flagcounter.com/DcJJ"><img src="https://s11.flagcounter.com/map/DcJJ/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
   
   
- <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
-
-    <script src="https://cdn1.lncld.net/static/js/av-mini-0.6.10.js"></script>
-    <script src="http://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-lc-0.2.0.js"></script>
-    <span data-hk-page="current"> - </span>
+ 
+    
